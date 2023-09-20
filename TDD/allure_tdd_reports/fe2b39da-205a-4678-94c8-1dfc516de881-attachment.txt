@@ -1,0 +1,20 @@
+
+"Enter your email address" is visible on screen
+
+Random Email: "1 1l4qml1m@yahoo.com"
+
+"2 What category of security bug is this?" is visible on screen
+
+"3 Provide the URL that is affected" is visible on screen
+
+"4 Provide a descriptive bug caption" is visible on screen
+
+"5 Describe how we can replicate this issue" is visible on screen
+
+"6 Put any additional information that you think we might find useful here" is visible on screen
+
+current url: https://www.sendsafely.com/security/bug-report/
+len of iframes: 1
+type of iframe: <class 'list'>
+current url: https://www.sendsafely.com/security/bug-report/
+type of iframe: <class 'selenium.webdriver.remote.webelement.WebElement'>
