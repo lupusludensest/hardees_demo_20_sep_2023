@@ -53,5 +53,3 @@ def test_hardees_pytested_header_links_1():
     sleep(2)
     driver.delete_all_cookies()
     driver.quit()
-
-
