@@ -50,7 +50,7 @@ def test_hardees_pytested_header_links_1():
     actual_text = str(base_url)
     assert expected_text == actual_text, f'Expected {expected_text}, but got {actual_text}'
 
-    sleep(3)
+    sleep(2)
     driver.delete_all_cookies()
     driver.quit()
 
